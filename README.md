@@ -4,6 +4,6 @@
 - ⚡ An experienced Analytics Engineer with a proven track record in leveraging cloud platforms (GCP, Azure, AWS) and data tools (Microsoft Fabric, Azure Synapse Analytics, Google BigQuery, Amazon RedShift) to drive data-driven insights. Skilled in designing, building, and maintaining scalable data pipelines, ETL processes, and data warehouses. Proficient in data analysis, and visualization techniques. Passionate about transforming raw data into actionable intelligence to support business decision-making.
 - 😄 Aside building robust scalable arcitectures, I enjoy playing tennis and trying out new cuisines (food makes me happy😄), I also love to keep up-to-date with the latest fashon blogs online. 
 - 👯 I am always excited about networking and meeting new people. 
-- 📫 You can reach out to me via https://www.linkedin.com/in/jenne-kamara-06930611b/  LinkedIn or Email: jennekamara3@gmail.com
+- 📫 You can reach out to me via LinkedIn or Email: jennekamara3@gmail.com
 - 💬 Pronouns: She/Her/Lady/Woman/Mrs
 - 👯 Fun fact: I love good food 
