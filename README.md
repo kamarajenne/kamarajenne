@@ -1,7 +1,7 @@
 - 👋 Hi there, I'm Jenne!
   
 - 🔭 I’m an Data & Analytics Engineer
-- 
+  
 - 🌱 I’m passionate about Data and Analytics engineering
   
 - ⚡ An experienced analytics engineer proficient in Microsoft Fabric, Google BigQuery, and major cloud platforms (GCP, Azure, AWS). Skilled in designing data pipelines, ETL processes, and data warehouses for actionable insights. Passionate about transforming raw data into valuable business intelligence.
