@@ -1,7 +1,7 @@
 - 👋 Hi there, I'm Jenne! 
 - 🔭 I’m an Data & Analytics Engineer 
 - 🌱 I’m passionate about Data and Analytics engineering
-- ⚡ An experienced Analytics Engineer with a proven track record in leveraging cloud platforms (GCP, Azure, AWS) and data tools (Microsoft Fabric, Azure Synapse Analytics, Google BigQuery, Amazon RedShift) to drive data-driven insights. Skilled in designing, building, and maintaining scalable data pipelines, ETL processes, and data warehouses. Proficient in data analysis, and visualization techniques. Passionate about transforming raw data into actionable intelligence to support business decision-making.
+- ⚡ An experienced analytics engineer proficient in Microsoft Fabric, Google BigQuery, and major cloud platforms (GCP, Azure, AWS). Skilled in designing data pipelines, ETL processes, and data warehouses for actionable insights. Passionate about transforming raw data into valuable business intelligence.
 - 😄 Aside building robust scalable arcitectures, I enjoy playing tennis and trying out new cuisines (food makes me happy😄), I also love to keep up-to-date with the latest fashon blogs online. 
 - 👯 I am always excited about networking and meeting new people. 
 - 📫 You can reach out to me via LinkedIn or Email: jennekamara3@gmail.com
