@@ -1,4 +1,4 @@
-- 👋 Hi there, I'm Jenne!
+- 👋 Hi there, I'm Jenne Kamara!
   
 - 🔭 I’m an Data & Analytics Engineer
   
